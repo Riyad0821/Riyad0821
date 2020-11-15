@@ -1,13 +1,15 @@
-### Hi there 👋
-### I am Md Riyad Hossain
+### Hi, I am Riyad 👋
 #### Web Developer
+
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning Advance Web Developing
 <!--
 **Riyad0821/Riyad0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning Advance Web Developing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
