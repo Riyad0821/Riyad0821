@@ -16,7 +16,7 @@
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/visual-studio-code.png" />
-<!-- <img align="left" alt="HTML5" width="26px" src="./images/html.png" />
+<img align="left" alt="HTML5" width="26px" src="./images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="./images/css.png" />
 <img align="left" alt="Sass" width="26px" src="./images/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="./images/javascript.png" />
@@ -29,7 +29,7 @@
 <img align="left" alt="MongoDB" width="26px" src="./images/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="./images/git.png" />
 <img align="left" alt="GitHub" width="26px" src="./images/github.png" />
-<img align="left" alt="HTML5" width="26px" src="./images/terminal.png" /> -->
+<img align="left" alt="HTML5" width="26px" src="./images/terminal.png" />
 
 <br></br>
 
