@@ -19,7 +19,7 @@
 ## Some Projects I worked On:-
 - [Creative Agency](https://creative-agency-6bd46.web.app/)
 - [Volunteer Network](https://volunteer-network-56677.web.app/)
-- [Travel Guro](https://travel-guru-cb905.web.app/)
+- [Travel Guru](https://travel-guru-cb905.web.app/)
 - [Simple E-commerce Site](https://ema-john11.netlify.app/)
 
 
