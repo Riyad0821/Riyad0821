@@ -1,6 +1,6 @@
 ### Hi there, I'm Md Riyad Hossain - [My Portfolio](https://riyad-hossain.netlify.app/ "Riyad's Portfolio") 👋
 
-## I'm a avaScript Enthusiast and MERN Stack Developer 🔥🔥
+## I'm a JavaScript Enthusiast and MERN Stack Developer 🔥🔥
 
 - 🔭 I’m currently working on MERN stack Web Development !
 - 🌱 I’m currently learning everything 🤣
