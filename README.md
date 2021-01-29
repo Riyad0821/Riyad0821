@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MERN stack Web Development !
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React, React Native, Node, GraphQL, Gatsby.js, Next.js
+- 🥅 2021 Goals: Learn React, React Native, Node, GraphQL, Gatsby.js, Next.js
 - ⚡ Fun fact: I love to read books and watching documentaries
 
 ### Connect with me:
